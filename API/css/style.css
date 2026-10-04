@@ -1,0 +1,5 @@
+body { background: #f4f6f9; }
+.sidebar { background: #1f2d3d; min-height: 100vh; }
+.sidebar .nav-link { color: #c2cad3; border-radius: .4rem; }
+.sidebar .nav-link.active, .sidebar .nav-link:hover { background: #0d6efd; color: #fff; }
+.card { border: 0; box-shadow: 0 1px 4px rgba(0, 0, 0, .08); }
